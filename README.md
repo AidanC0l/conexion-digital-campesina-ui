@@ -36,7 +36,8 @@ El documento PDF contiene las siguientes pantallas:
 
 ## 📌 Instrucciones para revisión
 1. Descargar el archivo `.fig` y abrirlo en [Figma](https://figma.com) → opción **Import File**.  
-2. Revisar el documento `mockups.pdf` para visualizar las pantallas sin necesidad de Figma.  
+2. Revisar el documento `mockups.pdf` para visualizar las pantallas sin necesidad de Figma.
+3. Revisar el video realizado hablando sobre el proyecto en [Youtube].(https://youtu.be/EkJ4blMwF7k?si=BPXnsXrIWsKGStP5).
  
 ---
 
